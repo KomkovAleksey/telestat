@@ -1,4 +1,4 @@
-# 🤖 [Telestat](https://github.com/KomkovAleksey/QRkot_spreadsheets)
+# 🤖 [Telestat](https://github.com/KomkovAleksey/telestat)
 
 
 ## Оглавление:
